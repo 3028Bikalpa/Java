@@ -10,7 +10,7 @@ public class passfail {
         int m2 = sc.nextInt();
         int m3 = sc.nextInt();
         int total = m1+m2+m3;
-        float percentage = total/3;
+        float percentage = total/3.0f;
         if(m1>=33&&m2>=33&&m3>=33&&percentage>=40){
             System.out.println("Congratulations! You have passed.");
         }
