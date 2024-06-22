@@ -29,6 +29,6 @@ public class dayofweek {
                 break;
             default:
                 System.out.println("Invalid entry");
-        }        
+        }    
     }
 }
