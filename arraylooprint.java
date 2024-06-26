@@ -10,7 +10,7 @@ public class arraylooprint {
             number [i] = sc.nextInt();
         }
         System.out.println("The numbers you entered are:");
-        for (int j = 0; j < 5; j++) {
+        for (int j = 4; j >=0; j--) {
             System.out.println(number[j]);
         }
     }
