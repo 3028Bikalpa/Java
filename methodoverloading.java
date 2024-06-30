@@ -2,8 +2,8 @@ public class methodoverloading {
     static void sample(){
         System.out.println("Hi!");
     }
-    static void sample(int a ){
-        System.out.println(a);
+    static void sample(int b ){
+        System.out.println(b);
     }
     static int square(int a){
         int y = a*a;
