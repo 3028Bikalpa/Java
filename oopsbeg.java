@@ -1,7 +1,7 @@
 
 
 
-class Employee{
+class Employee1{
     int id;
     String name;
     public void printDetails(){
@@ -13,8 +13,8 @@ class Employee{
 public class oopsbeg {
     
     public static void main(String[] args) {
-        Employee bikalpa = new Employee();
-        Employee John = new Employee();
+        Employee1 bikalpa = new Employee1();
+        Employee1 John = new Employee1();
         bikalpa.id = 3028;
         bikalpa.name = "Bikalpa";
         John.id = 3000;
