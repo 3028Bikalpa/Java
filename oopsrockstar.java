@@ -18,11 +18,3 @@ class TommyVecetti{
         System.out.println("Firing");
     }
 }
-// public class oopsclasscell {
-//     public static void main(String[] args) {
-//         cellphone iphone = new cellphone();
-//         iphone.call();
-//         iphone.ring();
-//         iphone.vibrate();
-//     }
-// }
