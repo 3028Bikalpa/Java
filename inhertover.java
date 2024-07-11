@@ -38,6 +38,6 @@ class kancho extends mailo{
 }
 public class inhertover {
     public static void main(String[] args) {
-        kancho a = new kancho(5, 6, 7);
+        kancho a = new kancho(5, 6);
     }
 }
