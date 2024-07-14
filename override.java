@@ -4,7 +4,7 @@ class A{
     }
 }
 class B extends A{
-    @Override
+    // @Override Not necesary to write it, but better to write it
     public void met1(){
         System.out.println("This is method 1 from the class B");
     }
