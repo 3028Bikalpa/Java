@@ -19,6 +19,5 @@ public class dymethdisp {
         Phone oppo = new SmartPhone();
         oppo.ShowTime();
         oppo.on();
-
     }
 }
