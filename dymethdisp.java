@@ -19,6 +19,6 @@ public class dymethdisp {
         Phone oppo = new SmartPhone();
         oppo.ShowTime();
         oppo.on();
-        // here we cannot use oppo.music
+        // here we cannot use oppo.music and can only use the showtime and on function
     }
 }
